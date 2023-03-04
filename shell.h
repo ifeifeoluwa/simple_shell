@@ -50,9 +50,6 @@ typedef struct liststr
 	struct liststr *next;
 } list_t;
 
-
-
-
  /**
   *struct passinfo - contains pseudo-arguements to pass into a function,
   *                allowing uniform prototype for function pointer struct
